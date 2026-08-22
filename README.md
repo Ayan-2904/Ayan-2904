@@ -109,7 +109,7 @@ Worked on responsive web applications using **React.js, Next.js, Node.js, Expres
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/ayan-mujawar-558411256/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Ayan-2904">
