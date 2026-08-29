@@ -48,7 +48,7 @@ I'm a **Computer Science & Engineering (Data Science) graduate** passionate abou
 
 ## 🚀 Featured Projects
 
-### 🩺 AI BioScan
+### 🩺 AI BioScan [Live Demo](https://aibioscan.vercel.app/)
 
 **AI-powered health risk assessment system** built with React.js, Python, and PostgreSQL.
 
@@ -56,7 +56,7 @@ I'm a **Computer Science & Engineering (Data Science) graduate** passionate abou
 * Built REST APIs and responsive health analytics dashboards.
 * Generated personalized recommendations and automated reports.
 
-### 🎥 YouTube Video Summarizer
+### 🎥 YouTube Video Summarizer [Live Demo](https://youtube-transcript-summarizer-m3kq.vercel.app/)
 
 AI-powered application that generates concise summaries from YouTube videos using **LLMs**.
 
@@ -64,7 +64,7 @@ AI-powered application that generates concise summaries from YouTube videos usin
 * Added asynchronous processing for improved performance.
 * Optimized backend APIs and frontend rendering.
 
-### 🎨 Text-to-Image Generator
+### 🎨 Text-to-Image Generator [Live Demo](https://text-to-image-w2ji.vercel.app/)
 
 Generative AI application for creating images from text prompts using **Stable Diffusion**.
 
